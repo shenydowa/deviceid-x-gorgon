@@ -86,7 +86,7 @@ sub函数的参数是传入一个字典
 
 加密过程的算法实际上是AES，首先使用标准Gzip压缩参数然后调AES进行加密。Android和iOS加密方法相同。
 
-流程图如下：
+##### 流程图如下：
 ![流程图](https://github.com/shenydowa/deviceid-x-gorgon/blob/master/1.png)
 
 
